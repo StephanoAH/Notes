@@ -1,6 +1,6 @@
-# Pythons notes
+# Notes
 
-A system to collect and organize notes from python and tips for python projects.
+A system to collect and organize notes and tips for python projects.
 
 ## Links
 
